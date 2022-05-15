@@ -1,16 +1,21 @@
-# notes_todos
 
-A new Flutter project.
+# Flutter Notes & Todos App
 
-## Getting Started
+Aplikasi Flutter sederhana untuk mengelola notes & todos. Data disimpan dalam local storage menggunakan sqflite. Aplikasi dibangun dengan arsitektur MVVM dan State management Provider
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+## Links
+
+[Desain Figma](https://www.figma.com/file/Gtzm6qlb0ckxNOEfCvQ0HX/Youtube---note-%26-todo-app?node-id=2%3A7)
+
+[Video Pembuatan (Youtube)](https://www.youtube.com/watch?v=kasY5b-7Z5o&list=PL6jAA2-px0FPUNDuca8TT6z-SPZ9R-ipV)
+## Package digunakan
+
+- flutter_svg: ^1.0.3
+- flutter_staggered_grid_view: ^0.6.1
+- flutter_slidable: ^1.2.0
+- flutter_launcher_icons: "^0.9.2"  
+
