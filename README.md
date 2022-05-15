@@ -11,7 +11,7 @@ Aplikasi Flutter sederhana untuk mengelola notes & todos. Data disimpan dalam lo
 
 [Desain Figma](https://www.figma.com/file/Gtzm6qlb0ckxNOEfCvQ0HX/Youtube---note-%26-todo-app?node-id=2%3A7)
 
-[Video Pembuatan (Youtube)](https://www.youtube.com/watch?v=kasY5b-7Z5o&list=PL6jAA2-px0FPUNDuca8TT6z-SPZ9R-ipV)
+[Video Pembuatan (Part I)](https://youtu.be/BWNgfzHs_5c)
 ## Package digunakan
 
 - flutter_svg: ^1.0.3
